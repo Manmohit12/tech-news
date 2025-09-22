@@ -5,3 +5,6 @@
     hover:bg-slate-300 hover:scale-110 
     transition-transform duration-300 ease-in-out;
 }
+h1{
+    @apply text-2xl font-bold
+}
